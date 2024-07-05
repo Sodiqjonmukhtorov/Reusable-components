@@ -1,0 +1,21 @@
+.btn {
+  padding: 10px 24px;
+  border: none;
+  background-color: transparent;
+  color: #ffff;
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+
+.primary {
+  background-color: rgb(64, 64, 230);
+}
+
+.secondary {
+  background-color: rgb(64, 230, 108);
+}
+
+.danger {
+  background-color: rgb(230, 72, 64);
+}

@@ -1,0 +1,10 @@
+.wrapper {
+  display: grid;
+  grid-template-columns: 1fr 4fr;
+}
+
+.card {
+  border: 1px solid red;
+  height: 80vh;
+  padding: 20px;
+}
